@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm an undergraduate at FPT University HCMC. I love music, coding, manga, anime and Japanese.
-
+🔭 I'm an undergraduate at FPT University HCMC.<br>🌱 I’m currently learning Japanese, Java and web/app development<br>⚡ I love music, coding, manga and anime.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/truonglehuyhoang) 
