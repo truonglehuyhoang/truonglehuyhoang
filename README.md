@@ -1,3 +1,9 @@
+<br clear="both">
+
+<h2 align="center">Hi 👋! I'm Hoang</h2>
+
+###
+
 # 💫 About Me:
 🔭 I'm an undergraduate at FPT University HCMC.<br>🌱 I’m currently learning Japanese, Java and web/app development<br>⚡ I love music, coding, manga and anime.
 
